@@ -27,7 +27,7 @@ When opening the top cover, the 2 Qi chargers can be disconnected to remove the 
 - display connection:
   - 2x UART
 
-![main-controller-board](assets\main-controller-board.jpeg)
+![main-controller-board](assets/main-controller-board.jpeg)
 
 
 
@@ -35,7 +35,7 @@ When opening the top cover, the 2 Qi chargers can be disconnected to remove the 
 
 Touchdisplay board, located in the front of the device.
 
-![](assets\display-back-removed.jpeg)
+![](assets/display-back-removed.jpeg)
 
 Communicates via 2 UART ports to main controller. 
 
@@ -80,7 +80,7 @@ Its likely the port is not alive, even though the default pull-up is applied at 
 
 
 
-![image-20240114152751917](assets\screenshot-main-controller-ac200max)
+![image-20240114152751917](assets/screenshot-main-controller-ac200max)
 
 (taken from: https://www.youtube.com/watch?v=dRjFJPFkYZw). It seems the BT module is located on a carrier board seperately to the main control board. Chance reduced we get modbus on the display...
 
