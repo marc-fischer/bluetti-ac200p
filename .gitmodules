@@ -1,0 +1,3 @@
+[submodule "bluetti_mqtt"]
+	path = bluetti_mqtt
+	url = git@github.com:marc-fischer/bluetti_mqtt.git
